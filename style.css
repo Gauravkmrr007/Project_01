@@ -1,0 +1,10 @@
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.bg-body-secondary {
+    --bs-bg-opacity: 1;
+    
+    background-color: rgb(23, 121, 200) !important;
+}
